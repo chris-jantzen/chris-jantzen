@@ -35,7 +35,6 @@
 <br>
 
 ---
-<br>
 
 [![Spotify](https://novatorem-vert-seven.vercel.app/api/spotify)](https://open.spotify.com/user/ChrisJantzen)
 
