@@ -9,6 +9,3 @@
   <a href="https://twitter.com/michrisoft"><img src="https://img.shields.io/twitter/follow/michrisoft?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/christopher-jantzen-b01630181"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-
-<style>
-</style>
